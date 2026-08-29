@@ -12,8 +12,8 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=650&lines=Engineering+deterministic+systems+around+LLMs;Edge+AI+%26+Audio%2FSpeech+ML+pipelines;Rust+for+high-performance+systems;Security-first+engineering+practices;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-hey-0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekmpec2024@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek140305)
 
 <br>
 
@@ -40,4 +40,4 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Abhishek Rajput-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Abhishek140305-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
