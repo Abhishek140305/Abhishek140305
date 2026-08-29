@@ -36,8 +36,10 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abhishek Rajput&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Abhishek Rajput&theme=solarized-light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishek Rajput&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Abhishek140305-hey-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+---
+[![](https://komarev.com/ghpvc/?username=Abhishek Rajput&icon=0&color=0)](https://visitcount.itsvg.in)
