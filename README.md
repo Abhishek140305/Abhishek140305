@@ -120,9 +120,12 @@ WHERE performance = 'Optimized';
 ### <img src="https://api.iconify.design/mdi/chip.svg?color=%2311998e" width="20"/> **Artificial Intelligence**
 
 ```text
-Digital Electronics | Analog Electronics | Microprocessors
-Signal Processing | DFT/FFT | Antenna Simulation
-Tools: MATLAB/Simulink, LTspice, CST CAD
+Full-Stack AI & MLOps
+Model Architecture | Distributed Training | Model Compression (Quantization/Pruning)
+
+API Development | Inference Optimization | Data Pipelines
+
+Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 ```
 
 ---
