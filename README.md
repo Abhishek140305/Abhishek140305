@@ -120,11 +120,8 @@ WHERE performance = 'Optimized';
 ### <img src="https://api.iconify.design/mdi/chip.svg?color=%2311998e" width="20"/> **Artificial Intelligence**
 
 ```text
-Full-Stack AI & MLOps
 Model Architecture | Distributed Training | Model Compression (Quantization/Pruning)
-
 API Development | Inference Optimization | Data Pipelines
-
 Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 ```
 
