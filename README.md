@@ -160,34 +160,7 @@ Tools: PyTorch, ONNX, TensorRT, Docker, MLflow, FastAPI
 
 ---
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2311998e" width="26"/> GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GOKU-BOT&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOKU-BOT&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GOKU-BOT&theme=tokyonight&border_radius=10&cache_seconds=86400)](https://git.io/streak-stats)
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishek140305&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
-## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%236A0DAD" width="26"/> Activity Graph
-
-<div align="center">
-
-![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek140305&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ## <img src="https://api.iconify.design/mdi/map-marker-path.svg?color=%2311998e" width="26"/> What's Next
 
