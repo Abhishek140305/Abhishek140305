@@ -117,7 +117,7 @@ FROM data_stack
 WHERE performance = 'Optimized';
 ```
 
-### <img src="https://api.iconify.design/mdi/chip.svg?color=%2311998e" width="20"/> **Electronics & Signal Processing**
+### <img src="https://api.iconify.design/mdi/chip.svg?color=%2311998e" width="20"/> **Artificial Intelligence**
 
 ```text
 Digital Electronics | Analog Electronics | Microprocessors
