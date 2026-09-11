@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:6A0DAD,100:38ef7d&height=230&section=header&text=Ayush%20Tiwari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:6A0DAD,100:38ef7d&height=230&section=header&text=Abhishek%20Rajput&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38ef7d&center=true&vCenter=true&width=680&lines=B.Tech+ECE+%40+IIITDM+Jabalpur+(2023-2027);Building+with+Python%2C+ML+%26+Full-Stack+Web;RAG+Systems+%2B+NLP+%2B+Predictive+ML+Apps;Seeking+SDE+%2F+AI-ML+Internships" />
 
@@ -12,7 +12,7 @@
 <a href="https://github.com/Abhishek140305"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=GOKU-BOT&style=for-the-badge&color=38ef7d&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Abhishek140305&style=for-the-badge&color=38ef7d&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/Abhishek140305?style=for-the-badge&color=6A0DAD&labelColor=black"/>
 
 </div>
@@ -27,7 +27,7 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/adarshbiradar/adarshbiradar/master/programming.gif"/>
 
-Results-driven 4th-year **B.Tech (Electronics and Communication Engineering)** student at **IIITDM Jabalpur**, graduating in 2027. I build across the stack — from training ML models to shipping full production web apps — with a focus on **Machine Learning, NLP, REST APIs, and scalable software design**.
+Results-driven 3rd-year **B.Tech (COMPUTER SCIENCE ENGINEERING)** student at **MPEC KANPUR**, graduating in 2028. I build across the stack — from training ML models to shipping full production web apps — with a focus on **Machine Learning, NLP, REST APIs, and scalable software design**.
 
 ```python
 class Abhishek Rajput:
